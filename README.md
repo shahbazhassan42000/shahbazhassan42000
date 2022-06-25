@@ -78,10 +78,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <details><summary><b>𝓟&nbsp;𝓡&nbsp;𝓞&nbsp;𝓕&nbsp;𝓘&nbsp;𝓛&nbsp;𝓔&nbsp;&nbsp; 𝓜&nbsp;𝓔&nbsp;𝓣&nbsp;𝓡&nbsp;𝓘&nbsp;𝓒&nbsp;𝓢<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px></b></summary>
 <p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/github-metrics.svg">
+<img src="https://raw.githubusercontent.com/trinib/shahbazhassan42000/main/github-metrics.svg">
 </p>
 </details>
-<!--📏LINE-->
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 
 <p align="center">
