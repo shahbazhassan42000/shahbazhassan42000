@@ -48,10 +48,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <code><img height="50" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
 <code><img height="50" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
 <code><img height="50" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
-<code><img height="50" src=""></code>
-<code><img height="50" src=""></code>
-<code><img height="50" src=""></code>
-<code><img height="50" src=""></code>
+<code><img height="50" src="https://camo.githubusercontent.com/19ab6bd09ac44d51db909362f5b77c47ab5679fda118a0bb5bfccf72cfc2a0d1/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d7973716c2f6d7973716c2d617232312e737667"></code>
+<code><img height="50" src="https://camo.githubusercontent.com/ec327d2d01ade7c9986c28f1bb1c76681e65cc16e5fdfd24ac3aaf0b6a68d700/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a736f6e2f6a736f6e2d617232312e737667"></code>
+<code><img height="50" src="https://png2.cleanpng.com/sh/5f5111da29d2d6c3f125eecec0e2ad79/L0KzQYm3VMI1N6J9fZH0aYP2gLBuTf1qa6N0i9HvdD35ecT8gfwue6V6fNt4LYbsg8bojL10fKZpgdG2Y3BndX7qjB1xfaVqReV9dXTsf37zjBdwNWZmfNhqMXLldYK8UBExNmI6SqY8NUS8QYa5VMYxPWQ8Sas7Mz7zfri=/kisspng-microsoft-visual-studio-visual-studio-code-compute-studio-logo-5adfa1bbe153a0.152435491524605371923.png"></code>
+<code><img height="50" src="./assets/images/vscode.png"></code>
 <code><img height="50" src=""></code>
 <code><img height="50" src=""></code>
 <code><img height="50" src=""></code>
