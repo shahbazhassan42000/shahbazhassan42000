@@ -59,6 +59,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <code><img height="50" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667"></code>
 <code><img height="50" src="https://camo.githubusercontent.com/94890eb1b8c3ce19ea73189dade730fa967a8fe08899f25cab17b57a5d4339dc/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f747970657363726970742d6f726967696e616c2e737667"></code>
 <code><img height="50" src="https://camo.githubusercontent.com/0d57a1013ca687b2df81dc1652bf33293b0d9e43d4745d7e70f33b0c79fef474/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c696e75782d6f726967696e616c2e737667"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg"></code>
+<code><img height="50" src="/hussainweb/hussainweb/raw/main/icons/phpstorm.png"></code>
+<code><img height="50" src=""></code>
+<code><img height="50" src=""></code>
+<code><img height="50" src=""></code>
 <code><img height="50" src=""></code>
 
 
