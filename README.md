@@ -1,23 +1,17 @@
-<div style="display: flex;justify-content: space-around">
-<div align="left">
+<span align="left">
 <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <br>
-<div align="center">
-<h1 class="greetingText">HELLO WORLD!</h1>
-    <img src="example.svg" height="1px" width="1px" alt="css-in-readme">
+<div>bonjour
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px" alt="hi"/>
 </div>
-</div>
-<div>
-<img style="margin-top:30px" src="https://count.getloli.com/get/@:shahbaz">
-</div>
-</div>
+</span>
+<span align="right">
+<img  src="https://count.getloli.com/get/@:shahbaz">
+</span>
 
 ---
 
-<div style="text-align: center;">bonjour
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px" alt="hi"/>
-</div>
+
 
 <div align="right">
 <img src="https://img.shields.io/github/last-commit/shahbazhassan42000/shahbazhassan42000">
