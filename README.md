@@ -47,8 +47,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 |---|---|---|
 | <a href="https://github.com/shumaim11"><img width="24" src="https://avatars.githubusercontent.com/u/67385698?s=24&u=8a429f4154eb1ff49b97b3ee2f836169ba67a378&v=4" alt="shumaim11" /> shumaim11</a> |6/25/2022, 4:03:18 PM|Nice work|
 | <a href="https://github.com/shumaim11"><img width="24" src="https://avatars.githubusercontent.com/u/67385698?s=24&u=8a429f4154eb1ff49b97b3ee2f836169ba67a378&v=4" alt="shumaim11" /> shumaim11</a> |6/25/2022, 3:53:33 PM|👌🏻|
-| <a href="https://github.com/gonashrana"><img width="24" src="https://avatars.githubusercontent.com/u/107134055?s=24&v=4" alt="gonashrana" /> gonashrana</a> |6/25/2022, 3:52:33 PM|Hi Shahbaz I like our work|
-| <a href="https://github.com/shumaim11"><img width="24" src="https://avatars.githubusercontent.com/u/67385698?s=24&u=8a429f4154eb1ff49b97b3ee2f836169ba67a378&v=4" alt="shumaim11" /> shumaim11</a> |6/25/2022, 3:30:11 PM|👋|
 <!-- /Guestbook -->
 
 
