@@ -2,7 +2,8 @@
 <div align="left">
 <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <br>
-<div style="text-align: center;">bonjour
+<div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px" alt="hi"/>
 </div>
 </div>
@@ -13,6 +14,9 @@
 
 ---
 
+<div style="text-align: center;">bonjour
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px" alt="hi"/>
+</div>
 
 <div align="right">
 <img src="https://img.shields.io/github/last-commit/shahbazhassan42000/shahbazhassan42000">
@@ -38,8 +42,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<div align="center">
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
-</div>
+
 
 
