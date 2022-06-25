@@ -1,20 +1,9 @@
 <div>
-<img align="left" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img align="left" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" >
 <img align="right"  src="https://count.getloli.com/get/@:shahbaz">
-<br>
-<div>bonjour
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px" alt="hi"/>
-</div>
 </div>
 
----
-
-
-
-<div align="right">
-<img src="https://img.shields.io/github/last-commit/shahbazhassan42000/shahbazhassan42000">
-</div>
-
+<br><br><br><br><br>
 ### About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
@@ -25,12 +14,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🌱 I’m currently learning MERN.
 - 💞️ I’m looking to collaborate on MERN projects.
 - 📫 How to reach me +92354058294 or shahbazhassan42000@gmail.com
-- ⚡ Fun fact: I'm in Love 
+- ⚡ Fun fact: I'm in Love ❤️
 
-<!---
-shahbazhassan42000/shahbazhassan42000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<br><br><br>
+
+---
+
+<div align="center">
+  Bonjour
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px" alt="hi"/>
+</div>
 
 
 
