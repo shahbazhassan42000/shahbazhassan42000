@@ -40,7 +40,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <p align="center">
 
-<a href="https://github.com/shahbazhassan42000/shahbazhassan42000/issues/62#issuecomment-new"><img src="./assets/images/guestbook.svg"></a> 
+<a href="https://github.com/shahbazhassan42000/shahbazhassan42000/issues/1#issuecomment-new"><img src="./assets/images/guestbook.svg"></a> 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <p align="center">
