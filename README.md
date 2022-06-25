@@ -1,10 +1,13 @@
 <div align="center">
 <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <br>
-<h1>bonjour
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px" alt="hi"/></h1>
+<div>bonjour
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px" alt="hi"/>
 </div>
+</div>
+
 ---
+
 <p align="center">
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:shahbaz"></a>
 </p>
