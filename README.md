@@ -4,15 +4,12 @@
 <h1>bonjour
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px" alt="hi"/></h1>
 </div>
-
 ---
 <p align="center">
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:shahbaz"></a>
 </p>
 <div align="right">
 <img src="https://img.shields.io/github/last-commit/shahbazhassan42000/shahbazhassan42000">
-
-[//]: # (<img src="https://visitor-badge.glitch.me/badge?page_id=shahbazhassan42000">)
 </div>
 
 ### About Me :
