@@ -3,7 +3,8 @@
 <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <br>
 <div align="center">
-    <img src="example.svg" alt="css-in-readme">
+<h1 class="greetingText">HELLO WORLD!</h1>
+    <img src="example.svg" height="1px" width="1px" alt="css-in-readme">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px" alt="hi"/>
 </div>
 </div>
