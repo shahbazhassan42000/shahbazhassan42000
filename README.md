@@ -30,6 +30,40 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px" alt="hi"/>
 </div>
 
+<p align="center">Programming Languages</p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+
+### ⚙️ Some Tool and Tech I use
+
+<code><img height="50" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="50" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
+  <code><img height="50" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="50" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
+<code><img height="50" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
+<code><img height="50" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
+<code><img height="50" src=""></code>
+<code><img height="50" src=""></code>
+<code><img height="50" src=""></code>
+<code><img height="50" src=""></code>
+<code><img height="50" src=""></code>
+<code><img height="50" src=""></code>
+<code><img height="50" src=""></code>
+<code><img height="50" src=""></code>
+
+
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+
+<p align="center">10 ways to contact me</p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
@@ -119,6 +153,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </p>
 <b>FUN FACT🤔 :</b>
 <i>❝When you’re all grown up and working and you use a computer each day, your hands would have traveled 12.6 miles (about 20km) per day!❞</i>
+  <p>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  </p>
 
 
 
