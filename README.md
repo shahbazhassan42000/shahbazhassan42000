@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="./assets/images/name.svg" alt="Shahbaz" />
+</h1>
 <div>
 <img align="left" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" >
 <img align="right"  src="https://count.getloli.com/get/@:shahbaz">
