@@ -61,7 +61,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <code><img height="50" src="https://camo.githubusercontent.com/0d57a1013ca687b2df81dc1652bf33293b0d9e43d4745d7e70f33b0c79fef474/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c696e75782d6f726967696e616c2e737667"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg"></code>
-<code><img height="50" src="/hussainweb/hussainweb/raw/main/icons/phpstorm.png"></code>
+<code><img height="50" src=""></code>
 <code><img height="50" src=""></code>
 <code><img height="50" src=""></code>
 <code><img height="50" src=""></code>
