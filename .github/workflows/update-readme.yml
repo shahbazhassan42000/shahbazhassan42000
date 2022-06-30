@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/3 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,11 +16,6 @@ jobs:
       id: "auto-commit-action"
       uses: ./
 
-    - name: "no changes detected"
-      if: steps.auto-commit-action.outputs.changes_detected == false
-      run: "echo \"No changes detected\""
-
     - name: "changes detected"
-      if: steps.auto-commit-action.outputs.changes_detected == true
       run: "echo \"Changes detected\""
 
