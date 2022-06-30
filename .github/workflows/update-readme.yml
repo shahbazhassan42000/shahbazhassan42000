@@ -4,14 +4,30 @@ on:
   schedule:
     - cron: "*/3 * * * *"
   workflow_dispatch:
+  push: 
+    branches: [ main ]
 
 jobs:
-  git-auto-commit:
+  github-metrics:
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v3
-
-    - name: "changes detected"
-      run: "echo \"Changes detected\""
+      - uses: lowlighter/metrics@latest
+        with:
+          committer_message: update
+          token: ${{ secrets.MY_TOKEN }}
+          user: shahbazhassan42000
+          base: header, activity, repositories
+          plugin_fortune: yes
+          plugin_introduction: yes
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create, comment, push, star
+          plugin_gists: yes
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_topics: yes
+          plugin_topics_sort: stars
+          plugin_topics_mode: icons
+          plugin_topics_limit: 15
 
