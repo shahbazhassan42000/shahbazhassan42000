@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: "*/3 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,10 +11,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-
-    - name: Use git-auto-commit-action
-      id: "auto-commit-action"
-      uses: ./
 
     - name: "changes detected"
       run: "echo \"Changes detected\""
