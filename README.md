@@ -38,34 +38,61 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### ⚙️ Some Tool and Tech I use
 
-<code><img height="50" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
-  <code><img height="50" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="50" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
-<code><img height="50" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
-<code><img height="50" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
-<code><img height="50" src="https://camo.githubusercontent.com/19ab6bd09ac44d51db909362f5b77c47ab5679fda118a0bb5bfccf72cfc2a0d1/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d7973716c2f6d7973716c2d617232312e737667"></code>
-<code><img height="50" src="https://camo.githubusercontent.com/ec327d2d01ade7c9986c28f1bb1c76681e65cc16e5fdfd24ac3aaf0b6a68d700/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a736f6e2f6a736f6e2d617232312e737667"></code>
-<code><img height="50" src="https://png2.cleanpng.com/sh/5f5111da29d2d6c3f125eecec0e2ad79/L0KzQYm3VMI1N6J9fZH0aYP2gLBuTf1qa6N0i9HvdD35ecT8gfwue6V6fNt4LYbsg8bojL10fKZpgdG2Y3BndX7qjB1xfaVqReV9dXTsf37zjBdwNWZmfNhqMXLldYK8UBExNmI6SqY8NUS8QYa5VMYxPWQ8Sas7Mz7zfri=/kisspng-microsoft-visual-studio-visual-studio-code-compute-studio-logo-5adfa1bbe153a0.152435491524605371923.png"></code>
-<code><img height="50" src="./assets/images/vscode.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="50" src="https://camo.githubusercontent.com/8b932cba9de56c2969c04499c818c1d87aca848f71b0d144ab754a46296b6200/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a735f7765627061636b2f6a735f7765627061636b2d69636f6e2e737667"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></code>
-<code><img height="50" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667"></code>
-<code><img height="50" src="https://camo.githubusercontent.com/94890eb1b8c3ce19ea73189dade730fa967a8fe08899f25cab17b57a5d4339dc/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f747970657363726970742d6f726967696e616c2e737667"></code>
-<code><img height="50" src="https://camo.githubusercontent.com/0d57a1013ca687b2df81dc1652bf33293b0d9e43d4745d7e70f33b0c79fef474/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c696e75782d6f726967696e616c2e737667"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg"></code>
-<code><img height="50" src=""></code>
-<code><img height="50" src=""></code>
-<code><img height="50" src=""></code>
-<code><img height="50" src=""></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/denojs/denojs-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg"></code>
+<code><img height="50" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg"></code>
 
 
 
