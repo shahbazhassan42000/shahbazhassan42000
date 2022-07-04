@@ -43,11 +43,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/msdos/msdos-original.svg"></code>
@@ -66,17 +63,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/denojs/denojs-original.svg"></code>
@@ -89,10 +75,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg"></code>
 <code><img height="50" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg"></code>
 
