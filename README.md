@@ -117,7 +117,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  </p>
 <p align="center">
  <a href="https://github.com/shahbazhassan42000?tab=repositories&sort=stargazers">
- <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shahbazhassan42000"/></a><a href="https://github.com/trinib?tab=followers"><a href="https://github.com/shahbazhassan42000?tab=followers">
+ <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shahbazhassan42000"/></a><a href="https://github.com/shahbazhassan42000?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/shahbazhassan42000?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 </p>
 
