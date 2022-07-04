@@ -30,13 +30,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px" alt="hi"/>
 </div>
 
-<p align="center">Programming Languages</p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-
+### 👨‍💻 Programming Languages
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### ⚙️ Some Tool and Tech I use
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+
+### ⚙️ Some Tool and Tech I use 
 
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"></code>
