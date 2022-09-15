@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1093" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1110" class="">
     <defs>
         <style/>
     </defs>
@@ -85,7 +85,7 @@ outcomes.</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            358 Commits
+                            360 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -191,18 +191,18 @@ outcomes.</div>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 3.12mb of code in 376 edited files across 331 commits</small>
+                <small>estimation from 3.13mb of code in 376 edited files across 332 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="231.23407945368814" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="231.23407945368814" y="0" width="136.81609397864614" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="368.0501734323343" y="0" width="85.86357108015827" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="453.91374451249254" y="0" width="3.181805864180803" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="457.0955503766733" y="0" width="1.7903501165248494" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="458.88590049319816" y="0" width="1.1140995068017994" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="232.0902387581203" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="232.0902387581203" y="0" width="136.30405804437694" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="368.3942968024973" y="0" width="85.54222559689529" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="453.9365223993926" y="0" width="3.169897916139374" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.1064203155319" y="0" width="1.783649708934447" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="458.89007002446635" y="0" width="1.1099299755336203" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -319,6 +319,30 @@ outcomes.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">shahbazhassan42000/findMeHome</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a61c6f5</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/main'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#623cfff</div>
+                                        <div class="message">fixed home url</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">shahbazhassan42000/findMeHome</span>
                                     </div>
@@ -396,26 +420,6 @@ outcomes.</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shahbazhassan42000/findMeHome</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#da44e46</div>
-                                        <div class="message">updated login</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -429,7 +433,7 @@ outcomes.</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
