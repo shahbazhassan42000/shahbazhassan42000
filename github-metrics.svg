@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1056" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1073" class="">
     <defs>
         <style/>
     </defs>
@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -85,7 +85,7 @@ outcomes.</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            461 Commits
+                            463 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -191,20 +191,20 @@ outcomes.</div>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 14.1mb of code in 1114 edited files across 445 commits</small>
+                <small>estimation from 14.1mb of code in 1130 edited files across 447 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="162.61619464932795" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="162.61619464932795" y="0" width="146.99214232479247" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="309.60833697412045" y="0" width="120.39889105908357" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="430.00722803320394" y="0" width="26.304354809693915" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="456.31158284289785" y="0" width="1.5087635887024236" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="457.8203464316003" y="0" width="0.8489565932512657" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="458.66930302485156" y="0" width="0.7565983912004318" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="459.425901416052" y="0" width="0.5740985839479839" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="160.5330014033029" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="160.5330014033029" y="0" width="145.10910085545981" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="305.64210225876275" y="0" width="118.85652218724977" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="424.4986244460125" y="0" width="31.86020883050162" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="456.35883327651413" y="0" width="1.4894355868105382" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.8482688633246" y="0" width="0.8380810427254204" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="458.68634990605005" y="0" width="0.7469059945612102" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="459.4332559006113" y="0" width="0.5667440993887308" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -325,6 +325,30 @@ outcomes.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">shahbazhassan42000/fun2learn</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2180cf2</div>
+                                        <div class="message">created DBMS with on create and on upgrade functions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c35729d</div>
+                                        <div class="message">creating authentication page</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">shahbazhassan42000/fun2learn</span>
                                     </div>
@@ -398,26 +422,6 @@ outcomes.</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shahbazhassan42000/esabzi</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3f773de</div>
-                                        <div class="message">added backend file structure and files</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -431,7 +435,7 @@ outcomes.</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
