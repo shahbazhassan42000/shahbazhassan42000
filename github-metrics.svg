@@ -191,20 +191,20 @@ outcomes.</div>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 14.3mb of code in 1497 edited files across 502 commits</small>
+                <small>estimation from 14.3mb of code in 1415 edited files across 479 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="136.35811606860057" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="136.35811606860057" y="0" width="127.5607199322529" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="263.91883600085345" y="0" width="105.61935192314573" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="369.53818792399915" y="0" width="73.88569133984741" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="443.4238792638466" y="0" width="13.47926172619939" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="456.9031409900459" y="0" width="1.2448397831350528" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.147980773181" y="0" width="1.1515682420872257" height="8" fill="#e38c00"/>
-                    <rect mask="url(#languages-bar)" x="459.2995490152682" y="0" width="0.7004509847317217" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="144.99594853012673" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="144.99594853012673" y="0" width="112.30998606294364" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="257.3059345930704" y="0" width="107.32181635497358" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="364.62775094804397" y="0" width="78.56610378245227" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="443.19385473049624" y="0" width="14.333128058859755" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="457.526982789356" y="0" width="1.2245162544971315" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="458.7514990438531" y="0" width="0.7448222215019609" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="459.49632126535505" y="0" width="0.5036787346449292" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -215,15 +215,15 @@ outcomes.</div>
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        JavaScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         HTML
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -239,12 +239,6 @@ outcomes.</div>
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Python
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#e38c00" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TSQL
@@ -254,6 +248,12 @@ outcomes.</div>
                             <path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Hack
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        C
                     </div>
                 </div>
             </section>
@@ -431,7 +431,7 @@ outcomes.</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
