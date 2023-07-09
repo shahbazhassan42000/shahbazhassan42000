@@ -85,7 +85,7 @@ outcomes.</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            686 Commits
+                            687 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -191,20 +191,20 @@ outcomes.</div>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 29.5mb of code in 1308 edited files across 454 commits</small>
+                <small>estimation from 29.5mb of code in 1340 edited files across 474 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="353.6067840408437" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="353.6067840408437" y="0" width="81.33926598111269" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="434.9460500219564" y="0" width="13.743462546265244" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="448.68951256822163" y="0" width="5.594699583552495" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="454.2842121517741" y="0" width="3.3629463057776663" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="457.6471584575518" y="0" width="1.3079974327917423" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.9551558903436" y="0" width="0.9924298722669125" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="459.94758576261046" y="0" width="0.05241423738955455" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="353.07224493943085" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="353.07224493943085" y="0" width="81.55189964187497" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="434.6241445813058" y="0" width="13.972171635251751" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="448.59631621655757" y="0" width="5.696536357963381" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="454.2928525745209" y="0" width="3.3578626185365796" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="457.6507151930575" y="0" width="1.3060201636783364" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.95673535673586" y="0" width="0.9909296392508073" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="459.94766499598666" y="0" width="0.05233500401333003" height="8" fill="#e38c00"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -340,6 +340,26 @@ outcomes.</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#524e9af</div>
+                                        <div class="message">completed reset password</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shahbazhassan42000/go-track</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#5bc821b</div>
                                         <div class="message">completed login</div>
                                     </div>
@@ -396,26 +416,6 @@ outcomes.</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">baucisandphilemon/thaisamairestaurant</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#288f4d3</div>
-                                        <div class="message">completed blog component</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -429,7 +429,7 @@ outcomes.</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #E7890C">Your fortune: Good Luck</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
