@@ -191,16 +191,16 @@ outcomes.</div>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 7.97mb of code in 7 edited files across 1 commit</small>
+                <small>estimation from 8.23mb of code in 314 edited files across 94 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="375.54399537934614" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="375.54399537934614" y="0" width="82.17756256409389" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.72155794344" y="0" width="2.2348876790593057" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.95644562249936" y="0" width="0.04355437750065472" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="365.6435034161688" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="365.6435034161688" y="0" width="87.80311091539852" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="453.4466143315674" y="0" width="4.339141922260796" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.7857562538282" y="0" width="2.214243746171858" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -217,15 +217,15 @@ outcomes.</div>
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        CSS
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         HTML
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        CSS
                     </div>
                 </div>
                 <div class="row footnote warning">
@@ -411,7 +411,7 @@ outcomes.</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
+                            <b style="color: #00CBB0">Your fortune: ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!</b>
                         </div>
                     </section>
                 </div>
