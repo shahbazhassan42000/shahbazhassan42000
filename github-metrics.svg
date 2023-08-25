@@ -191,16 +191,16 @@ outcomes.</div>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 15.7mb of code in 87 edited files across 76 commits</small>
+                <small>estimation from 15.7mb of code in 91 edited files across 77 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.4607437258913" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="376.4607437258913" y="0" width="82.37577794812744" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.8365216740187" y="0" width="1.1201720946836713" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.9566937687024" y="0" width="0.043306231297633495" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.44897054913895" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="376.44897054913895" y="0" width="82.37993678551385" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.8289073346528" y="0" width="1.1201370631849468" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.9490443978377" y="0" width="0.0509556021622899" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -405,7 +405,7 @@ outcomes.</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
