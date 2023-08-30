@@ -123,7 +123,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/shahbazhassan42000?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 </p>
 
-
+<!-- Snake Grid-->
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 <img src="https://raw.githubusercontent.com/shahbazhassan42000/shahbazhassan42000/output/github-contribution-grid-snake.svg" width="100%">
