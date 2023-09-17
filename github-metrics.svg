@@ -34,16 +34,16 @@
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -188,19 +188,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 46.5mb of code in 1139 edited files across 109 commits</small>
+                <small>estimation from 57mb of code in 1494 edited files across 200 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="283.5659175636828" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="283.5659175636828" y="0" width="123.3446713784098" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="406.9105889420926" y="0" width="28.502676657716258" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="435.4132655998088" y="0" width="12.37150180644768" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="447.7847674062565" y="0" width="11.799560493141595" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.5843278993981" y="0" width="0.34384567049949283" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.9281735698976" y="0" width="0.07182643010239842" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.4848557164815" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="281.4848557164815" y="0" width="123.76673304199893" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="405.25158875848035" y="0" width="28.41339075511824" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="433.6649795135986" y="0" width="12.280708594685203" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="445.94568810828383" y="0" width="12.151782314519199" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="458.09747042280304" y="0" width="1.0412172086731928" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.1386876314762" y="0" width="0.7900130653927468" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="459.92870069686893" y="0" width="0.07129930313103662" height="8" fill="#701516"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -238,6 +239,12 @@
                             <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Python
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        C#
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -429,7 +436,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
