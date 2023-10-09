@@ -188,20 +188,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 57mb of code in 1494 edited files across 200 commits</small>
+                <small>estimation from 60.8mb of code in 2611 edited files across 560 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.4848557164815" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="281.4848557164815" y="0" width="123.76673304199893" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="405.25158875848035" y="0" width="28.41339075511824" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="433.6649795135986" y="0" width="12.280708594685203" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="445.94568810828383" y="0" width="12.151782314519199" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="458.09747042280304" y="0" width="1.0412172086731928" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.1386876314762" y="0" width="0.7900130653927468" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="459.92870069686893" y="0" width="0.07129930313103662" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="273.40850418819844" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="273.40850418819844" y="0" width="122.91970971773968" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="396.32821390593807" y="0" width="32.214974908120816" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="428.5431888140589" y="0" width="15.14954386881331" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="443.6927326828722" y="0" width="11.92835102512919" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="455.6210837080014" y="0" width="2.600227599201537" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.2213113072029" y="0" width="1.0113426487323471" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.2326539559353" y="0" width="0.7673460440646979" height="8" fill="#178600"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -224,15 +224,21 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        HTML
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         SCSS
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        HTML
+                        Java
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -245,12 +251,6 @@
                             <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C#
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Ruby
                     </div>
                 </div>
                 <div class="row footnote warning">
@@ -337,6 +337,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">output</span></div>
                                     <div class="commit">
+                                        <div class="sha">#67c3f40</div>
+                                        <div class="message">Deploy to GitHub pages</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shahbazhassan42000/shahbazhassan42000</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">output</span></div>
+                                    <div class="commit">
                                         <div class="sha">#b9986e4</div>
                                         <div class="message">Deploy to GitHub pages</div>
                                     </div>
@@ -403,26 +423,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">7Vals/ezofficeinventory</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/28429_substates_package_placement</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5c35e6e</div>
-                                        <div class="message">indentation fixed refs#28429</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -436,7 +436,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
                         </div>
                     </section>
                 </div>
