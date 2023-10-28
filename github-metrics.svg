@@ -188,20 +188,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 57mb of code in 1482 edited files across 185 commits</small>
+                <small>estimation from 46.5mb of code in 1139 edited files across 109 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.5362665446559" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="281.5362665446559" y="0" width="123.78933798900376" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="405.3256045336596" y="0" width="28.377953403306382" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="433.703557936966" y="0" width="12.282951562243138" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="445.9865094992091" y="0" width="12.11061344265764" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="458.09712294186676" y="0" width="1.0414073781900255" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.13853032005676" y="0" width="0.7901573545974256" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="459.92868767465416" y="0" width="0.07131232534572345" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="283.5659175636828" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="283.5659175636828" y="0" width="123.3446713784098" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="406.9105889420926" y="0" width="28.502676657716258" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="435.4132655998088" y="0" width="12.37150180644768" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="447.7847674062565" y="0" width="11.799560493141595" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.5843278993981" y="0" width="0.34384567049949283" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.9281735698976" y="0" width="0.07182643010239842" height="8" fill="#701516"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -239,12 +238,6 @@
                             <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Python
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        C#
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -434,7 +427,7 @@ This reverts commit 26a3faf8166278bc69a1147e6d8f2e5c473f68c4.</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
+                            <b style="color: #6023F8">Your fortune: Outlook good</b>
                         </div>
                     </section>
                 </div>
