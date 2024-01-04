@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1066" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1083" class="">
     <defs>
         <style/>
     </defs>
@@ -331,14 +331,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">shahbazhassan42000/shahbazhassan42000</span>
+                                        <span class="repo">7Vals/ezofficeinventory</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">output</span></div>
+                                    <div>on branch <span class="code">feature/29026_work_order_location</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4e3b50c</div>
-                                        <div class="message">Deploy to GitHub pages</div>
+                                        <div class="sha">#d6860a0</div>
+                                        <div class="message">resolved comments refs #29026</div>
                                     </div>
                                 </div>
                             </section>
@@ -356,7 +356,7 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by shahbazhassan42000 in <span class="repo">7Vals/ezofficeinventory</span></div>
-                                    <div class="comment">to display task location in 'Work Order Line Item Report'</div>
+                                    <div class="comment">this will not align with the spec case mentioned "If item quantity is null at ‘Work Order Location’, show ‘Select Location’ as per current practice"</div>
                                 </div>
                             </section>
                         </div>
@@ -390,8 +390,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feature/29026_work_order_location</span></div>
                                     <div class="commit">
-                                        <div class="sha">#eb29bbb</div>
-                                        <div class="message">fixed comments refs #29026</div>
+                                        <div class="sha">#fe7150a</div>
+                                        <div class="message">resolved testing comments refs #29026</div>
                                     </div>
                                 </div>
                             </section>
@@ -410,8 +410,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feature/29026_work_order_location</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0025ef6</div>
-                                        <div class="message">fixed preventive maintenance partial case refs #29026</div>
+                                        <div class="sha">#e816be1</div>
+                                        <div class="message">removed previous rake file refs #29026</div>
                                     </div>
                                 </div>
                             </section>
