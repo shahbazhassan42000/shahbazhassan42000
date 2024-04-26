@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1055" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1049" class="">
     <defs>
         <style/>
     </defs>
@@ -188,20 +188,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 60.8mb of code in 2611 edited files across 560 commits</small>
+                <small>estimation from 57.9mb of code in 2350 edited files across 517 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="273.40850418819844" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="273.40850418819844" y="0" width="122.91970971773968" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="396.32821390593807" y="0" width="32.214974908120816" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="428.5431888140589" y="0" width="15.14954386881331" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="443.6927326828722" y="0" width="11.92835102512919" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="455.6210837080014" y="0" width="2.600227599201537" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="458.2213113072029" y="0" width="1.0113426487323471" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.2326539559353" y="0" width="0.7673460440646979" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="274.4351593458524" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="274.4351593458524" y="0" width="122.03499847315122" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="396.47015781900365" y="0" width="32.13177348670513" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="428.6019313057088" y="0" width="15.029567217135874" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="443.63149852284465" y="0" width="11.973142254789794" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="455.6046407776344" y="0" width="2.6099915130334086" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="458.21463229066785" y="0" width="1.015140263402598" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.22977255407045" y="0" width="0.7702274459295869" height="8" fill="#178600"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -331,6 +331,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">shahbazhassan42000/shahbazhassan42000</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">output</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e9178f4</div>
+                                        <div class="message">Deploy to GitHub pages</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">7Vals/ezofficeinventory</span>
                                     </div>
                                 </div>
@@ -396,23 +416,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#27284 Feature/30499 Item Mass Action Alerts Custody Verification</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by shahbazhassan42000 in <span class="repo">7Vals/ezofficeinventory</span></div>
-                                    <div class="comment">verified</div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -426,7 +429,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
