@@ -330,15 +330,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shahbazhassan42000/shahbazhassan42000</span>
+                                        Pushed 3 commits in
+                                        <span class="repo">7Vals/ezofficeinventory</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">output</span></div>
+                                    <div>on branch <span class="code">feature/staging_branch_p15</span></div>
                                     <div class="commit">
-                                        <div class="sha">#92609ae</div>
-                                        <div class="message">Deploy to GitHub pages</div>
+                                        <div class="sha">#dd9fd33</div>
+                                        <div class="message">Merge branch 'feature/30598_quick_item_center_reservation' of github.com:7Vals/ezofficeinventory into feature/staging_branch_p15</div>
                                     </div>
                                 </div>
                             </section>
@@ -357,8 +357,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feature/30598_quick_item_center_reservation</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a6ee044</div>
-                                        <div class="message">fixed reserve to field being hide on uncheck of reserve for location toggle button refs #30598</div>
+                                        <div class="sha">#a5eba41</div>
+                                        <div class="message">modifed reserve for to ajaxified users dropdown refs #30598</div>
                                     </div>
                                 </div>
                             </section>
@@ -377,8 +377,28 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feature/30598_quick_item_center_reservation</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4f7e527</div>
-                                        <div class="message">fixed reserve to field not populating on selection of a user having work location refs #30598</div>
+                                        <div class="sha">#d3bc43e</div>
+                                        <div class="message">fixed custom role restriciton of location, group crashing refs #30598</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">7Vals/ezofficeinventory</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/staging_branch_p15</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#dbabd22</div>
+                                        <div class="message">Merge branch 'feature/staging_branch_p15' of github.com:7Vals/ezofficeinventory into feature/staging_branch_p15</div>
                                     </div>
                                 </div>
                             </section>
@@ -391,34 +411,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">shahbazhassan42000/shahbazhassan42000</span>
+                                        <span class="repo">7Vals/ezofficeinventory</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">output</span></div>
+                                    <div>on branch <span class="code">feature/30598_quick_item_center_reservation</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1392b84</div>
-                                        <div class="message">Deploy to GitHub pages</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shahbazhassan42000/shahbazhassan42000</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">output</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d72c003</div>
-                                        <div class="message">Deploy to GitHub pages</div>
+                                        <div class="sha">#df2a043</div>
+                                        <div class="message">fixed reservation request not working for staff user and reduntant rentals check refs #30598</div>
                                     </div>
                                 </div>
                             </section>
@@ -436,7 +436,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
