@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1408" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2391" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg,.footnote.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.footnote{width:100%;justify-content:flex-end;font-size:12px}.footnote.warning{color:#d79533}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg,.footnote.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.footnote{width:100%;justify-content:flex-end;font-size:12px}.footnote.warning{color:#d79533}.audit svg{margin:0}.post{align-items:flex-start}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            72 Pull requests opened
+                            73 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -330,15 +330,199 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shahbazhassan42000/shahbazhassan42000</span>
+                                        Pushed 3863 commits in
+                                        <span class="repo">7Vals/ezofficeinventory</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">output</span></div>
+                                    <div>on branch <span class="code">feature/36243_request_fulfiller_comments_missing_on_cart_detail_page</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8410452</div>
-                                        <div class="message">Deploy to GitHub pages</div>
+                                        <div class="sha">#c687949</div>
+                                        <div class="message">remove order refs #36750</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#12c9bb0</div>
+                                        <div class="message">add check for best pricing to be enabled at 28 days for consigliconstruction refs #36750</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a541db8</div>
+                                        <div class="message">added order_gorss_value_line_item method in pdf_generator refs #32962</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c7f931e</div>
+                                        <div class="message">resolve comments ref # 30504</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#230659f</div>
+                                        <div class="message">Merge branch 'feature/rails_upgrade_final_prod' of github.com:7Vals/ezofficeinventory into feature/32962_increase_flexibility_and_scope_of_discounts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af62c91</div>
+                                        <div class="message">Syntax fix refs: RM#35508</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e4bbee2</div>
+                                        <div class="message">location disappearing issue after member selection issue resolved refs#36957</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5bcf239</div>
+                                        <div class="message">Merge pull request #29901 from 7Vals/feature/35495_location_filter_in_planner
+
+Feature/35495 locations filter in planner</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40c76d8</div>
+                                        <div class="message">Merge pull request #29904 from 7Vals/feature/35508_work_order_parameters
+
+Feature/35508 Work Order Placeholders</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5dc3a59</div>
+                                        <div class="message">Reverting the change refs: RM#33260</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f1e4fed</div>
+                                        <div class="message">resolved comments refs# 35556</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2fe6075</div>
+                                        <div class="message">Merge pull request #29699 from 7Vals/feature/34742_queries_improvements_in_code
+
+Feature/34742 queries improvements in code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#830706f</div>
+                                        <div class="message">location formating issues resolved, ref#35495</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce54424</div>
+                                        <div class="message">addition of price per unit refs# 36839</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ee835e</div>
+                                        <div class="message">rake command updated, refs#36796</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed6ccde</div>
+                                        <div class="message">testing</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be6f4f5</div>
+                                        <div class="message">reverted change refs# 35556</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#330c79a</div>
+                                        <div class="message">added ability for action refs# 35556</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf12f70</div>
+                                        <div class="message">Merge pull request #29857 from 7Vals/feature/35389_request_portal_ability_to_re_order_groups
+
+Feature/35389 Request portal ability to re order groups</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#69f0227</div>
+                                        <div class="message">Merge pull request #29923 from 7Vals/feature/36537_handle_blank_software_list
+
+feature/36537_handle_blank_software_list refs #36537</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 29 commits in
+                                        <span class="repo">7Vals/ezofficeinventory</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/37737_fulfilment_center_modifications_reservation_inline_actions</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#555bf27</div>
+                                        <div class="message">permissions modified for checkins checkout tab refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6872a2e</div>
+                                        <div class="message">added custody verification icon refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e613b5</div>
+                                        <div class="message">completed custody verificationa action refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#870f3b4</div>
+                                        <div class="message">completed transfer custody refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d9636c</div>
+                                        <div class="message">fixed extend checkout issue on member detail page refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a75753</div>
+                                        <div class="message">completed extend checkout action refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8de186f</div>
+                                        <div class="message">handled fixed asset checin request case refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a18198f</div>
+                                        <div class="message">added inline actions on checkins due listing refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#34e797d</div>
+                                        <div class="message">refactored checkins due and all checkout listing columns value refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b1adac1</div>
+                                        <div class="message">refactored audit actions permissions refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d7b3b1</div>
+                                        <div class="message">updated no documentation comment on basket controller refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88120fb</div>
+                                        <div class="message">updated no documentation comment refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb0da73</div>
+                                        <div class="message">handled carts listing for checkins due and all checkouts filters refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a838a7</div>
+                                        <div class="message">completed listing of checkins due and all checkouts refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c50a0d</div>
+                                        <div class="message">completed verification requested, verified and denied inline actions and listing refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c5623f</div>
+                                        <div class="message">removed filters from rmc custody verification requested listing refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff446c2</div>
+                                        <div class="message">added listing of custody verification requested refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cfeef89</div>
+                                        <div class="message">completed checkin requests fulfilled and denied listing refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa5cc14</div>
+                                        <div class="message">Revert "added fulfilled and denied checkin requests refs #36992"
+
+This reverts commit 846511c4935dd794548aedec876c7640d1813812.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#846511c</div>
+                                        <div class="message">added fulfilled and denied checkin requests refs #36992</div>
                                     </div>
                                 </div>
                             </section>
@@ -355,10 +539,12 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feature/35421_catalog_optimizer</span></div>
+                                    <div>on branch <span class="code">feature/37737_fulfilment_center_modifications_reservation_inline_actions</span></div>
                                     <div class="commit">
-                                        <div class="sha">#83b80fb</div>
-                                        <div class="message">Refactor Filters component to use Dropdown instead of FormDropdown and improve item name handling in AssetListing refs #3542</div>
+                                        <div class="sha">#c366514</div>
+                                        <div class="message">Revert "added updated icons refs #37515"
+
+This reverts commit 31ec143c180dad7af172a5a3b8892cdd0dc0385c.</div>
                                     </div>
                                 </div>
                             </section>
@@ -370,91 +556,93 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 159 commits in
+                                        Pushed 90 commits in
                                         <span class="repo">7Vals/ezofficeinventory</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feature/35421_catalog_optimizer</span></div>
+                                    <div>on branch <span class="code">feature/37737_fulfilment_center_modifications_reservation_inline_actions</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9b0445e</div>
-                                        <div class="message">migration added for making the default fields false for Order system settings, refs PM-338</div>
+                                        <div class="sha">#2d4b8f5</div>
+                                        <div class="message">Cycle 0 comments refs: RM#36462</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a0db820</div>
-                                        <div class="message">PM comments resolved , refs # PM-291</div>
+                                        <div class="sha">#689016c</div>
+                                        <div class="message">Comment changes refs: RM#36462</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7c9220d</div>
-                                        <div class="message">cycle one comments resolved , refs # PM-291</div>
+                                        <div class="sha">#9f53f53</div>
+                                        <div class="message">Cycle 0 in progress refs: RM#36462</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#07870b7</div>
-                                        <div class="message">cycle one comments resolved , refs # PM-291</div>
+                                        <div class="sha">#a94ab70</div>
+                                        <div class="message">Cycle 0 comments refs: RM#36462</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#428d650</div>
-                                        <div class="message">translation added for view, refs # PM-291</div>
+                                        <div class="sha">#1a2673f</div>
+                                        <div class="message">Update task.rb</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d01d5cd</div>
-                                        <div class="message">view button added for locations and addresses, refs # PM-291</div>
+                                        <div class="sha">#e3eddbf</div>
+                                        <div class="message">batch ocmpletion refs #35487</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7c7ad96</div>
-                                        <div class="message">sleep and retry when jira api limit has been exceeded refs#37470</div>
+                                        <div class="sha">#f94b70d</div>
+                                        <div class="message">batch work order completion refs #35487</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#eaba9af</div>
-                                        <div class="message">count issue resolved refs #35698</div>
+                                        <div class="sha">#3f595fc</div>
+                                        <div class="message">Separate list view preference for Work Request and change of default columns refs: RM#36462</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a8d7bf9</div>
-                                        <div class="message">downcased refs #35698</div>
+                                        <div class="sha">#76ac3dd</div>
+                                        <div class="message">resolved comments
+changin request method from post to get for auto login refs# 35556</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d9dfcf5</div>
-                                        <div class="message">status based filtering refs #35698</div>
+                                        <div class="sha">#301f7d6</div>
+                                        <div class="message">added js post request for auto login refs# 35556</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#aa2a904</div>
-                                        <div class="message">comments resolved refs#34509</div>
+                                        <div class="sha">#9dbda05</div>
+                                        <div class="message">resolved comments refs# 35556</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e0b4e47</div>
-                                        <div class="message">subdomain changed refs#34509</div>
+                                        <div class="sha">#f1e4fed</div>
+                                        <div class="message">resolved comments refs# 35556</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#782c7bf</div>
-                                        <div class="message">migration removed refs#34509</div>
+                                        <div class="sha">#ed6ccde</div>
+                                        <div class="message">testing</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2f3d6c1</div>
-                                        <div class="message">cycle 0 completed refs#31397</div>
+                                        <div class="sha">#be6f4f5</div>
+                                        <div class="message">reverted change refs# 35556</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9e85313</div>
-                                        <div class="message">changes refs #35698</div>
+                                        <div class="sha">#330c79a</div>
+                                        <div class="message">added ability for action refs# 35556</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#abd1439</div>
-                                        <div class="message">correct filters refs #35698</div>
+                                        <div class="sha">#dd96cd7</div>
+                                        <div class="message">removed some checks refs# 35556</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#437953e</div>
-                                        <div class="message">csv added for deleted records refs#34509</div>
+                                        <div class="sha">#9e4d6bc</div>
+                                        <div class="message">reverted login across session case refs# 35556</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#38bc505</div>
-                                        <div class="message">fetching by status improvement refs #35698</div>
+                                        <div class="sha">#03dcc58</div>
+                                        <div class="message">changed approach by creating session on click of url instead of during app login refs# 35556</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#808d425</div>
-                                        <div class="message">all unassociated documents for subdomain plowhearth removed refs#34509</div>
+                                        <div class="sha">#2887169</div>
+                                        <div class="message">comments resolved refs# 35556</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#76cea01</div>
-                                        <div class="message">project unlinking on reservation cancellation added refs#31397</div>
+                                        <div class="sha">#9209624</div>
+                                        <div class="message">login acorss session for ezo
+handling auto logout of application upon logging out request portal</div>
                                     </div>
                                 </div>
                             </section>
@@ -466,43 +654,93 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 29 commits in
                                         <span class="repo">7Vals/ezofficeinventory</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feature/35421_catalog_optimizer</span></div>
+                                    <div>on branch <span class="code">feature/37737_fulfilment_center_modifications_reservation_inline_actions</span></div>
                                     <div class="commit">
-                                        <div class="sha">#77aca7e</div>
-                                        <div class="message">fixed utilization sorting refs #35421</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">7Vals/ezofficeinventory</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/35421_catalog_optimizer</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5859c86</div>
-                                        <div class="message">resolved final review comments refs #35421</div>
+                                        <div class="sha">#555bf27</div>
+                                        <div class="message">permissions modified for checkins checkout tab refs #36992</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2ffdd31</div>
-                                        <div class="message">created alias method for render_mobile_action_response and change it's occurenes refs #35421</div>
+                                        <div class="sha">#6872a2e</div>
+                                        <div class="message">added custody verification icon refs #36992</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a3e2caa</div>
-                                        <div class="message">added alias method</div>
+                                        <div class="sha">#7e613b5</div>
+                                        <div class="message">completed custody verificationa action refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#870f3b4</div>
+                                        <div class="message">completed transfer custody refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d9636c</div>
+                                        <div class="message">fixed extend checkout issue on member detail page refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a75753</div>
+                                        <div class="message">completed extend checkout action refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8de186f</div>
+                                        <div class="message">handled fixed asset checin request case refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a18198f</div>
+                                        <div class="message">added inline actions on checkins due listing refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#34e797d</div>
+                                        <div class="message">refactored checkins due and all checkout listing columns value refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b1adac1</div>
+                                        <div class="message">refactored audit actions permissions refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d7b3b1</div>
+                                        <div class="message">updated no documentation comment on basket controller refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88120fb</div>
+                                        <div class="message">updated no documentation comment refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb0da73</div>
+                                        <div class="message">handled carts listing for checkins due and all checkouts filters refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a838a7</div>
+                                        <div class="message">completed listing of checkins due and all checkouts refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c50a0d</div>
+                                        <div class="message">completed verification requested, verified and denied inline actions and listing refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c5623f</div>
+                                        <div class="message">removed filters from rmc custody verification requested listing refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff446c2</div>
+                                        <div class="message">added listing of custody verification requested refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cfeef89</div>
+                                        <div class="message">completed checkin requests fulfilled and denied listing refs #36992</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa5cc14</div>
+                                        <div class="message">Revert "added fulfilled and denied checkin requests refs #36992"
+
+This reverts commit 846511c4935dd794548aedec876c7640d1813812.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#846511c</div>
+                                        <div class="message">added fulfilled and denied checkin requests refs #36992</div>
                                     </div>
                                 </div>
                             </section>
@@ -520,7 +758,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
