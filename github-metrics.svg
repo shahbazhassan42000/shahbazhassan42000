@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1390" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1691" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg,.footnote.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.footnote{width:100%;justify-content:flex-end;font-size:12px}.footnote.warning{color:#d79533}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg,.footnote.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.footnote{width:100%;justify-content:flex-end;font-size:12px}.footnote.warning{color:#d79533}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -188,16 +188,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 16.4mb of code in 272 edited files across 96 commits</small>
+                <small>estimation from 61.3mb of code in 2716 edited files across 571 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="441.60133998178367" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="441.60133998178367" y="0" width="8.008243666733563" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="449.60958364851723" y="0" width="6.156197415749418" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="455.7657810642666" y="0" width="4.234218935733362" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="301.8058248874485" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="301.8058248874485" y="0" width="79.08112280428914" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="380.8869476917377" y="0" width="37.51743017922466" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="418.4043778709623" y="0" width="29.246584005058956" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="447.6509618760213" y="0" width="6.375380364990297" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="454.0263422410116" y="0" width="2.4796652673732886" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.50600750838487" y="0" width="1.8814210355990757" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="458.3874285439839" y="0" width="1.6125714560160276" height="8" fill="#701516"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -208,15 +212,39 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        CSS
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         HTML
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        CSS
+                        SCSS
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Java
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Python
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        C#
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -303,6 +331,254 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">7Vals/ezofficeinventory</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/35421_catalog_optimizer</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7b91c4f</div>
+                                        <div class="message">Refactor ListingHeader component for improved readability and accessibility refs #35421</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3282 commits in
+                                        <span class="repo">7Vals/ezofficeinventory</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/35421_catalog_optimizer</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#48ad4a1</div>
+                                        <div class="message">Merge pull request #30565 from 7Vals/hotfix/34663_sync_software_button_inconsistency_on_import_dialog
+
+34663_sync_software_button_inconsistency_on_import_dialog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43fab9e</div>
+                                        <div class="message">include added instead of separate conditions, refs# 34663</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a3cc6d6</div>
+                                        <div class="message">Merge pull request #30570 from 7Vals/hotfix/38200_license_detail_page_on_optimizer_listing_fixes
+
+hotfix/38200_license_detail_page_on_optimizer_listing_fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2034266</div>
+                                        <div class="message">Merge pull request #30566 from 7Vals/hotfix/38215_toFixed_crashing_fixed
+
+38215_toFixed_crashing_fixed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07e18a8</div>
+                                        <div class="message">Merge pull request #30553 from 7Vals/hotfix/38096_renewals_ical_link_behaviour_fix
+
+hotfix/38096_renewals_ical_link_behaviour_fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff52fb0</div>
+                                        <div class="message">Merge pull request #30537 from 7Vals/hotfix/38192_next_3_month_range_inconsistent_behaviour
+
+hotfix/38192_next_3_month_range_inconsistent_behaviour</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#453b74b</div>
+                                        <div class="message">Merge pull request #30520 from 7Vals/hotfix/37650_duplicate_component_addition_bug
+
+hotfix/37650_duplicate_component_addition_bug</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03addac</div>
+                                        <div class="message">suite software name cache done refs #34759</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a275ce0</div>
+                                        <div class="message">details page handled on optimizer listing, refs#38200</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05a7d27</div>
+                                        <div class="message">Merge branch 'feature/34663_softwares_react_base_branch' of github.com:7Vals/ezofficeinventory into feature/34663_softwares_react_base_branch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4bcd0ee</div>
+                                        <div class="message">Merge branch 'feature/rails_upgrade_final_prod' of github.com:7Vals/ezofficeinventory into feature/34663_softwares_react_base_branch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fabe20b</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/feature/34663_softwares_react_base_branch' into feature/34663_softwares_react_base_branch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#135af29</div>
+                                        <div class="message">Fixed an issue, refs#34663</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#63c5e6d</div>
+                                        <div class="message">Merge branch 'feature/rails_upgrade_final_prod' into feature/34663_softwares_react_base_branch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2816041</div>
+                                        <div class="message">Merge pull request #30564 from 7Vals/hotfix/SAM_UI_fixes
+
+Hotfix/sam UI fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e5ddab2</div>
+                                        <div class="message">Merge pull request #30545 from 7Vals/hotfix/38174_issue_with_jira_plugin
+
+Hotfix/38174 issue with jira plugin</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e54ad36</div>
+                                        <div class="message">Merge pull request #30568 from 7Vals/hotfix/38127_38182_reload_and_dropdown_issue
+
+Hotfix/38127 38182 reload and dropdown issue</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b49ea3e</div>
+                                        <div class="message">fix border radius</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2224240</div>
+                                        <div class="message">Merge branch 'feature/34663_softwares_react_base_branch' of github.com:7Vals/ezofficeinventory into feature/34663_softwares_react_base_branch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#878b21c</div>
+                                        <div class="message">software issue resolved refs# 34663</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 10000 commits in
+                                        <span class="repo">7Vals/ezofficeinventory</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/34724_catalog_optimizer</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#43fab9e</div>
+                                        <div class="message">include added instead of separate conditions, refs# 34663</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a3cc6d6</div>
+                                        <div class="message">Merge pull request #30570 from 7Vals/hotfix/38200_license_detail_page_on_optimizer_listing_fixes
+
+hotfix/38200_license_detail_page_on_optimizer_listing_fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2034266</div>
+                                        <div class="message">Merge pull request #30566 from 7Vals/hotfix/38215_toFixed_crashing_fixed
+
+38215_toFixed_crashing_fixed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07e18a8</div>
+                                        <div class="message">Merge pull request #30553 from 7Vals/hotfix/38096_renewals_ical_link_behaviour_fix
+
+hotfix/38096_renewals_ical_link_behaviour_fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff52fb0</div>
+                                        <div class="message">Merge pull request #30537 from 7Vals/hotfix/38192_next_3_month_range_inconsistent_behaviour
+
+hotfix/38192_next_3_month_range_inconsistent_behaviour</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#453b74b</div>
+                                        <div class="message">Merge pull request #30520 from 7Vals/hotfix/37650_duplicate_component_addition_bug
+
+hotfix/37650_duplicate_component_addition_bug</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03addac</div>
+                                        <div class="message">suite software name cache done refs #34759</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a275ce0</div>
+                                        <div class="message">details page handled on optimizer listing, refs#38200</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05a7d27</div>
+                                        <div class="message">Merge branch 'feature/34663_softwares_react_base_branch' of github.com:7Vals/ezofficeinventory into feature/34663_softwares_react_base_branch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4bcd0ee</div>
+                                        <div class="message">Merge branch 'feature/rails_upgrade_final_prod' of github.com:7Vals/ezofficeinventory into feature/34663_softwares_react_base_branch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fabe20b</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/feature/34663_softwares_react_base_branch' into feature/34663_softwares_react_base_branch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#135af29</div>
+                                        <div class="message">Fixed an issue, refs#34663</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#63c5e6d</div>
+                                        <div class="message">Merge branch 'feature/rails_upgrade_final_prod' into feature/34663_softwares_react_base_branch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2816041</div>
+                                        <div class="message">Merge pull request #30564 from 7Vals/hotfix/SAM_UI_fixes
+
+Hotfix/sam UI fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e5ddab2</div>
+                                        <div class="message">Merge pull request #30545 from 7Vals/hotfix/38174_issue_with_jira_plugin
+
+Hotfix/38174 issue with jira plugin</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e54ad36</div>
+                                        <div class="message">Merge pull request #30568 from 7Vals/hotfix/38127_38182_reload_and_dropdown_issue
+
+Hotfix/38127 38182 reload and dropdown issue</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b49ea3e</div>
+                                        <div class="message">fix border radius</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2224240</div>
+                                        <div class="message">Merge branch 'feature/34663_softwares_react_base_branch' of github.com:7Vals/ezofficeinventory into feature/34663_softwares_react_base_branch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#878b21c</div>
+                                        <div class="message">software issue resolved refs# 34663</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2675fb9</div>
+                                        <div class="message">Merge pull request #30552 from 7Vals/feature/34663_bitwise_attributes_improvement
+
+uniq added refs #34663</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">shahbazhassan42000/shahbazhassan42000</span>
                                     </div>
                                 </div>
@@ -335,150 +611,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">7Vals/ezofficeinventory</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/38442_list_view_preference</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#129647d</div>
-                                        <div class="message">Add update listing functionality with loading indicator and localization support refs #38442</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1ac6e24</div>
-                                        <div class="message">Refactor list view preference components and add restore functionality with confirmation dialog refs #38442</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#32019f4</div>
-                                        <div class="message">Add default listing toggle functionality and update state management in list view preference refs #38442</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">7Vals/ezofficeinventory</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/38442_list_view_preference</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2655993</div>
-                                        <div class="message">Enhance sortable item component with default select option and add new column functionality in list view preference refs #38442</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 484 commits in
-                                        <span class="repo">7Vals/ezofficeinventory</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/38442_list_view_preference</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#763fd71</div>
-                                        <div class="message">custom entry creation with avatax code handled refs #31543</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d447c03</div>
-                                        <div class="message">recurring line item creation/updation handled refs #31543</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4853543</div>
-                                        <div class="message">migration added to add avalara_tax_code column to baskets items refs #31543</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bc73d21</div>
-                                        <div class="message">UX handled for assets for avalara tax code field refs #31543</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c7be6f1</div>
-                                        <div class="message">Invoice Payload prepared, refs #31543</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f33f83</div>
-                                        <div class="message">Refactored ResovledAddress, refs #31543</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#238f204</div>
-                                        <div class="message">EZ Address used for conversion, refs #31543</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0194b62</div>
-                                        <div class="message">Converted basket into Avalara invoice payload, refs #31543</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#899d1ea</div>
-                                        <div class="message">reverse merged with settings branch, Avalara module created instead of Avatax, refs #31543</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#34070f7</div>
-                                        <div class="message">Renamed avatax with Avalara as our module name because gem name is also Avatax, refs #31543</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#869e3a8</div>
-                                        <div class="message">remove countrySupportsAddressResolution method, refs #31543</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#008f0b7</div>
-                                        <div class="message">Shown Avalara address resolution error messsages, and added method in response which will return resolved address, refs #31543</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4e8843a</div>
-                                        <div class="message">Setting added to perform address resolution or not and only US and CA addresses can be resolved, refs #31543</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f9f909c</div>
-                                        <div class="message">remove options param changes refs #31543</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8910883</div>
-                                        <div class="message">feature/31543_avatax_address_validation_buttons refs #31543</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8906913</div>
-                                        <div class="message">feature/31543_avatax_address_validation_buttons refs #31543</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec0d1ea</div>
-                                        <div class="message">Basic address resolution performed, refs #31543</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a3af5e</div>
-                                        <div class="message">SU user can create enterprise package with avatax, refs#31543</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a880ab5</div>
-                                        <div class="message">Implemented Avalara setting, refs #31543</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bfbf728</div>
-                                        <div class="message">Gem added, refs#31543</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -492,7 +624,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
                         </div>
                     </section>
                 </div>
