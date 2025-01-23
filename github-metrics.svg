@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1691" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1375" class="">
     <defs>
         <style/>
     </defs>
@@ -331,6 +331,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">shahbazhassan42000/shahbazhassan42000</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">output</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#56a2a60</div>
+                                        <div class="message">Deploy to GitHub pages</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">7Vals/ezofficeinventory</span>
                                     </div>
                                 </div>
@@ -493,120 +513,6 @@ Hotfix/38127 38182 reload and dropdown issue</div>
                                     <div class="commit">
                                         <div class="sha">#878b21c</div>
                                         <div class="message">software issue resolved refs# 34663</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 10000 commits in
-                                        <span class="repo">7Vals/ezofficeinventory</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/34724_catalog_optimizer</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#43fab9e</div>
-                                        <div class="message">include added instead of separate conditions, refs# 34663</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3cc6d6</div>
-                                        <div class="message">Merge pull request #30570 from 7Vals/hotfix/38200_license_detail_page_on_optimizer_listing_fixes
-
-hotfix/38200_license_detail_page_on_optimizer_listing_fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2034266</div>
-                                        <div class="message">Merge pull request #30566 from 7Vals/hotfix/38215_toFixed_crashing_fixed
-
-38215_toFixed_crashing_fixed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07e18a8</div>
-                                        <div class="message">Merge pull request #30553 from 7Vals/hotfix/38096_renewals_ical_link_behaviour_fix
-
-hotfix/38096_renewals_ical_link_behaviour_fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff52fb0</div>
-                                        <div class="message">Merge pull request #30537 from 7Vals/hotfix/38192_next_3_month_range_inconsistent_behaviour
-
-hotfix/38192_next_3_month_range_inconsistent_behaviour</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#453b74b</div>
-                                        <div class="message">Merge pull request #30520 from 7Vals/hotfix/37650_duplicate_component_addition_bug
-
-hotfix/37650_duplicate_component_addition_bug</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#03addac</div>
-                                        <div class="message">suite software name cache done refs #34759</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a275ce0</div>
-                                        <div class="message">details page handled on optimizer listing, refs#38200</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05a7d27</div>
-                                        <div class="message">Merge branch 'feature/34663_softwares_react_base_branch' of github.com:7Vals/ezofficeinventory into feature/34663_softwares_react_base_branch</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4bcd0ee</div>
-                                        <div class="message">Merge branch 'feature/rails_upgrade_final_prod' of github.com:7Vals/ezofficeinventory into feature/34663_softwares_react_base_branch</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fabe20b</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/feature/34663_softwares_react_base_branch' into feature/34663_softwares_react_base_branch</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#135af29</div>
-                                        <div class="message">Fixed an issue, refs#34663</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63c5e6d</div>
-                                        <div class="message">Merge branch 'feature/rails_upgrade_final_prod' into feature/34663_softwares_react_base_branch</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2816041</div>
-                                        <div class="message">Merge pull request #30564 from 7Vals/hotfix/SAM_UI_fixes
-
-Hotfix/sam UI fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e5ddab2</div>
-                                        <div class="message">Merge pull request #30545 from 7Vals/hotfix/38174_issue_with_jira_plugin
-
-Hotfix/38174 issue with jira plugin</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e54ad36</div>
-                                        <div class="message">Merge pull request #30568 from 7Vals/hotfix/38127_38182_reload_and_dropdown_issue
-
-Hotfix/38127 38182 reload and dropdown issue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b49ea3e</div>
-                                        <div class="message">fix border radius</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2224240</div>
-                                        <div class="message">Merge branch 'feature/34663_softwares_react_base_branch' of github.com:7Vals/ezofficeinventory into feature/34663_softwares_react_base_branch</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#878b21c</div>
-                                        <div class="message">software issue resolved refs# 34663</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2675fb9</div>
-                                        <div class="message">Merge pull request #30552 from 7Vals/feature/34663_bitwise_attributes_improvement
-
-uniq added refs #34663</div>
                                     </div>
                                 </div>
                             </section>
