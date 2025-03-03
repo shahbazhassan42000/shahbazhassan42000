@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg,.footnote.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.footnote{width:100%;justify-content:flex-end;font-size:12px}.footnote.warning{color:#d79533}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg,.footnote.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.footnote{width:100%;justify-content:flex-end;font-size:12px}.footnote.warning{color:#d79533}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.audit svg{margin:0}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -330,6 +330,220 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 21 commits in
+                                        <span class="repo">7Vals/ezofficeinventory</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/items_react_staging_branch_p2</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b5e59d7</div>
+                                        <div class="message">Merge pull request #31386 from 7Vals/feature/39399_checkin_request_action_III
+
+Feature/39399 Checkin Request Action III</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb914c1</div>
+                                        <div class="message">Refactor assetMassCancelVerification action to avoid duplicate dispatches for resetSelectedAction and handleFlashMessages. refs #39399</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a687753</div>
+                                        <div class="message">Merge branch 'feature/37230_single_canvas_system_for_items_on_react_p1' of github.com:7Vals/ezofficeinventory into feature/39399_checkin_request_action_III</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a728a6d</div>
+                                        <div class="message">Fix missing comma in asset actions mapping for ExtendCheckoutDialog, refs #39991</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c45d10e</div>
+                                        <div class="message">Merge branch 'feature/37230_single_canvas_system_for_items_on_react_p1' of github.com:7Vals/ezofficeinventory into feature/39399_checkin_request_action_III</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bfb2a2f</div>
+                                        <div class="message">Enhance check-in request functionality and improve related components, refs #39399</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#448e376</div>
+                                        <div class="message">Add mass check-in request functionality and update related components, refs #39399</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65ebcb4</div>
+                                        <div class="message">Refactor permissions logic and improve check-in request dialog handling, refs #39399</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d368b37</div>
+                                        <div class="message">Refactor check-in request components and API actions for improved clarity and functionality, refs #39399</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#671a4d8</div>
+                                        <div class="message">Merge branch 'feature/37230_single_canvas_system_for_items_on_react_p1' of github.com:7Vals/ezofficeinventory into feature/39399_checkin_request_action_III</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#76c6dc7</div>
+                                        <div class="message">feat: update action name for check-in request and add display flag for request check-in refs #39399</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a036e49</div>
+                                        <div class="message">feat: implement custom fields handling in check-in request form and update related components refs #39399</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#253aca8</div>
+                                        <div class="message">feat: add localized string for check-in request and update action label refs #39399</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7a5a24e</div>
+                                        <div class="message">fix: handle optional asset properties in check-in request dialog refs #39399</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f5add0</div>
+                                        <div class="message">feat: implement check-in request button and form data handling refs #39399</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e60f5e</div>
+                                        <div class="message">feat: add check-in request functionality and related components refs #39399</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c64f12e</div>
+                                        <div class="message">feat: implement check-in request dialog and update action mapping to use it refs #39399</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e182954</div>
+                                        <div class="message">feat: add check-in request dialog and update action mappings refs #39399</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6bfed0</div>
+                                        <div class="message">fix: enhance check-in request logic to include asset assignment validation refs #39399</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e8f1b01</div>
+                                        <div class="message">refactor: rename checked out action methods for clarity refs #39399</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">7Vals/ezofficeinventory</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/39399_checkin_request_action_III</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bb914c1</div>
+                                        <div class="message">Refactor assetMassCancelVerification action to avoid duplicate dispatches for resetSelectedAction and handleFlashMessages. refs #39399</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 42 commits in
+                                        <span class="repo">7Vals/ezofficeinventory</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/39399_checkin_request_action_III</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#612deab</div>
+                                        <div class="message">using current checkout</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d8897e8</div>
+                                        <div class="message">Merge branch 'feature/37230_single_canvas_system_for_items_on_react_p1' of github.com:7Vals/ezofficeinventory into feature/39401_request_verification_action_2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e99daa</div>
+                                        <div class="message">done done done</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b2c76ef</div>
+                                        <div class="message">Merge branch 'feature/37230_single_canvas_system_for_items_on_react_p1' of github.com:7Vals/ezofficeinventory into feature/39401_request_verification_action_2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6cfb2c</div>
+                                        <div class="message">mass stock done</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f9aaae2</div>
+                                        <div class="message">fixedAsset request completed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fba4a21</div>
+                                        <div class="message">redefine labels</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#37047c3</div>
+                                        <div class="message">merging</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2fd5a78</div>
+                                        <div class="message">flash message</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#86d1f81</div>
+                                        <div class="message">selected mass ids implemeted</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa77ab4</div>
+                                        <div class="message">Merge branch 'feature/37230_single_canvas_system_for_items_on_react_p1' of github.com:7Vals/ezofficeinventory into feature/39401_request_verification_action_2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#33fbc97</div>
+                                        <div class="message">detail action done</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4f0545</div>
+                                        <div class="message">mass for FA completed</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5171446</div>
+                                        <div class="message">add style</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#31714a7</div>
+                                        <div class="message">comparing changes with old</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d80376e</div>
+                                        <div class="message">Merge branch 'feature/37230_single_canvas_system_for_items_on_react_p1' of github.com:7Vals/ezofficeinventory into feature/39401_request_verification_action_2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51dedf0</div>
+                                        <div class="message">remove debugger and few changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21a7b53</div>
+                                        <div class="message">show on detail page</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec4ebd5</div>
+                                        <div class="message">getting data</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dc9fcbc</div>
+                                        <div class="message">create audit</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">shahbazhassan42000/shahbazhassan42000</span>
                                     </div>
@@ -359,220 +573,6 @@
                                     <div class="commit">
                                         <div class="sha">#a728a6d</div>
                                         <div class="message">Fix missing comma in asset actions mapping for ExtendCheckoutDialog, refs #39991</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 84 commits in
-                                        <span class="repo">7Vals/ezofficeinventory</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/39399_checkin_request_action_III</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b54e589</div>
-                                        <div class="message">add to work order param generator, refs#39791</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f36768</div>
-                                        <div class="message">resource generators added</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f972792</div>
-                                        <div class="message">reserve tab issue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0222a30</div>
-                                        <div class="message">gg</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a93da2</div>
-                                        <div class="message">linked inventory container treated as a component and used for add to work order action, refs#39791</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#02f010a</div>
-                                        <div class="message">checklists handling complete, refs#39791</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c0e0906</div>
-                                        <div class="message">used enum, resolved comment, refs# 39789</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1a28f3</div>
-                                        <div class="message">Merge branch 'feature/37230_single_canvas_system_for_items_on_react_p1' into feature/39789_request_reservation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#379478e</div>
-                                        <div class="message">mass reservation, refs# 39789</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dda1cc5</div>
-                                        <div class="message">inventory reservation request, refs# 39789</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e65cc7</div>
-                                        <div class="message">cmms check aded, refs#39791</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b775d2a</div>
-                                        <div class="message">treat linked inventory container as a component, refs#39791</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c5b292</div>
-                                        <div class="message">add to wo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd8e5cd</div>
-                                        <div class="message">inventory price and date handled, refs# 39789</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a9aa7d4</div>
-                                        <div class="message">add to work order, refs#39791</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a3fb94</div>
-                                        <div class="message">work order search dropdown added in form, refs#39791</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d84d0c</div>
-                                        <div class="message">Merge branch 'feature/37230_single_canvas_system_for_items_on_react_p1' into feature/39789_request_reservation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8fb77f5</div>
-                                        <div class="message">add to work order, refs#39791</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#498b29f</div>
-                                        <div class="message">reservation request action, refs# 39789</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#42815b5</div>
-                                        <div class="message">add to work order initial commit, refs#39791</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1510 commits in
-                                        <span class="repo">7Vals/ezofficeinventory</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/39399_checkin_request_action_III</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c83a9ef</div>
-                                        <div class="message">Comments resolved</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f0ee685</div>
-                                        <div class="message">OCS 2 private IP added, refs #NEXUS</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b99fc92</div>
-                                        <div class="message">Comments resolved, refs#39115</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#049c43b</div>
-                                        <div class="message">Fixed an issue, refs#38717</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#94f2801</div>
-                                        <div class="message">issue resolved</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a8c245f</div>
-                                        <div class="message">Comments resolved, refs#38981</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7eab0bc</div>
-                                        <div class="message">Merge branch 'feature/rails_upgrade_final_prod' of github.com:7Vals/ezofficeinventory into hotfix/38981_create_events_for_software_license_against_automation_user</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ce42e7</div>
-                                        <div class="message">setting reverted for existing companies refs#38482</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e209a7</div>
-                                        <div class="message">Comments resolved, refs#38980</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c75f633</div>
-                                        <div class="message">cycle 0 executed refs#38482</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e93c18</div>
-                                        <div class="message">reverse merged</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c59ea6</div>
-                                        <div class="message">Merge branch 'feature/37226_custom_attribute_linkages_module' of github.com:7Vals/ezofficeinventory into feature/37226_custom_attribute_linkages_module</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#99a3056</div>
-                                        <div class="message">linkages tab refs #37226</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee4bb2e</div>
-                                        <div class="message">handling for web refs: RM#37226</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#97ea4aa</div>
-                                        <div class="message">Added logging code for blank count, refs#38717</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#acd5365</div>
-                                        <div class="message">fixing the duration filter</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#32c6e12</div>
-                                        <div class="message">Merge pull request #31118 from 7Vals/hotfix/39102_arbitration_field_in_custom_forms
-
-Fixed arbitration visibility condition refs #39102</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b3b2142</div>
-                                        <div class="message">code refactored refs #38772</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5329efb</div>
-                                        <div class="message">mobile app check because code is common for react web refs: RM#37226</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9de1bef</div>
-                                        <div class="message">Fixed arbitration visibility condition refs #39102</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shahbazhassan42000/shahbazhassan42000</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">output</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7f9a41e</div>
-                                        <div class="message">Deploy to GitHub pages</div>
                                     </div>
                                 </div>
                             </section>
