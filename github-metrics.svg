@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1375" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1059" class="">
     <defs>
         <style/>
     </defs>
@@ -337,6 +337,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feature/39870_retire_action</span></div>
                                     <div class="commit">
+                                        <div class="sha">#60eaede</div>
+                                        <div class="message">fixed mass stock asset refs #39870</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">shahbazhassan42000/shahbazhassan42000</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">output</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ef3d20c</div>
+                                        <div class="message">Deploy to GitHub pages</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">7Vals/ezofficeinventory</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/39870_retire_action</span></div>
+                                    <div class="commit">
                                         <div class="sha">#06fc350</div>
                                         <div class="message">enhance retire form functionality to support mass actions and improve state management for asset retirement refs #39870</div>
                                     </div>
@@ -383,122 +423,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">7Vals/ezofficeinventory</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/39870_retire_action</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#516be98</div>
-                                        <div class="message">remove unused string keys for checked out locations in app strings and localized strings refs #39870</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 705 commits in
-                                        <span class="repo">7Vals/ezofficeinventory</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/39870_retire_action</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d36d80c</div>
-                                        <div class="message">revervation creation and listing for api v2 refs#34970</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aa17fe9</div>
-                                        <div class="message">comments resolved</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#17e3cd8</div>
-                                        <div class="message">reverse merged</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#003fed7</div>
-                                        <div class="message">add in cmms and as documentation refs #36103</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8e3b7d</div>
-                                        <div class="message">delete po action refs #36103</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c620fd</div>
-                                        <div class="message">remove binding</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#912576e</div>
-                                        <div class="message">cycle 0 comments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#78b08b3</div>
-                                        <div class="message">create po asset action refs #36103</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c45fe13</div>
-                                        <div class="message">add items action refs #36103</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#adec859</div>
-                                        <div class="message">saving progress</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a1b9eec</div>
-                                        <div class="message">Merge branch 'feature/rails_upgrade_final_prod' of github.com:7Vals/ezofficeinventory into feature/purchase_order_api_v2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f6d65b0</div>
-                                        <div class="message">cycle 0 comments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b2a1585</div>
-                                        <div class="message">documentation updated</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#62bc2e5</div>
-                                        <div class="message">mark void action</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9381c89</div>
-                                        <div class="message">payment issue resolved</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#983517c</div>
-                                        <div class="message">payment issue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a89604b</div>
-                                        <div class="message">mark confirm and receive items refs #36103</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#48bf13b</div>
-                                        <div class="message">purchase order create and update refs#36103</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b00f7a5</div>
-                                        <div class="message">add serialiser for line item</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ed7b2f</div>
-                                        <div class="message">po listing and detail</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -512,7 +436,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
                         </div>
                     </section>
                 </div>
