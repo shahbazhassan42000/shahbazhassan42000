@@ -31,7 +31,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -39,11 +39,11 @@
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -188,20 +188,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 58.8mb of code in 2477 edited files across 532 commits</small>
+                <small>estimation from 58.2mb of code in 2271 edited files across 441 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="301.4195624118454" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="301.4195624118454" y="0" width="79.2404912950067" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="380.6600537068521" y="0" width="37.39598102640787" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="418.05603473326005" y="0" width="29.491509944807955" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="447.547544678068" y="0" width="6.4287710798472" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="453.9763157579152" y="0" width="2.500431259933969" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.47674701784916" y="0" width="1.8971770232087029" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="458.3739240410579" y="0" width="1.6260759589422094" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="302.25326974823645" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="302.25326974823645" y="0" width="78.2906681626219" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="380.54393791085835" y="0" width="37.023713993515734" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="417.5676519043741" y="0" width="29.83490015513653" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="447.40255205951064" y="0" width="6.503625743355253" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="453.9061778028659" y="0" width="2.529545524272002" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.43572332713785" y="0" width="1.9192671779091366" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="458.354990505047" y="0" width="1.6450094949529592" height="8" fill="#701516"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -420,7 +420,7 @@ in web it was the max salvage value in case of fixed asset</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
                         </div>
                     </section>
                 </div>
