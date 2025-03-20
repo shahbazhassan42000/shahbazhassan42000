@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1342" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1025" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg,.footnote.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.footnote{width:100%;justify-content:flex-end;font-size:12px}.footnote.warning{color:#d79533}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg,.footnote.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.footnote{width:100%;justify-content:flex-end;font-size:12px}.footnote.warning{color:#d79533}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -188,20 +188,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 57.9mb of code in 1906 edited files across 294 commits</small>
+                <small>estimation from 58.1mb of code in 2160 edited files across 377 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="306.80913445317134" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="306.80913445317134" y="0" width="77.28970355419548" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="384.0988380073668" y="0" width="35.81353686417559" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="419.91237487154234" y="0" width="30.39582479870762" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="450.30819967025" y="0" width="3.483408449924194" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="453.7916081201742" y="0" width="2.57710339824581" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.36871151842" y="0" width="1.9553512355761111" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="458.32406275399615" y="0" width="1.6759372460038935" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="303.687341477792" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="303.687341477792" y="0" width="77.06372254760399" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="380.751064025396" y="0" width="36.484633147838686" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="417.23569717323466" y="0" width="30.068303129613703" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="447.3040003028484" y="0" width="6.554504599510034" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="453.8585049023584" y="0" width="2.5493345447269227" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.40783944708534" y="0" width="1.93428189777785" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="458.3421213448632" y="0" width="1.6578786551367954" height="8" fill="#701516"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -331,6 +331,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">7Vals/ezofficeinventory</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/40259_custom_fields_form</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#76f14d7</div>
+                                        <div class="message">Enhance custom fields functionality by adding new field types, unique field values, default value, and placeholder support; introduce InfoIcon component for better UI hints. refs #40259</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">shahbazhassan42000/shahbazhassan42000</span>
                                     </div>
                                 </div>
@@ -396,112 +416,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 40 commits in
-                                        <span class="repo">7Vals/ezofficeinventory</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">qa_bugs_seriesV</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3eb902c</div>
-                                        <div class="message">Merge pull request #31904 from 7Vals/feature/38365_add_index_to_checkout_request_id
-
-Feature/38365 Adding index on checkout request id column for item assignment histories</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3154c68</div>
-                                        <div class="message">Merge pull request #31895 from 7Vals/hotfix/40430_su_option_for_remove_payment_issue_for_multiserver
-
-Hotfix/40430 su option for remove payment issue for multiserver</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bda1087</div>
-                                        <div class="message">Merge pull request #31903 from 7Vals/feature/40563_pagination_for_fixed_asset_associated_services
-
-Feature/40563 Pagination for Fixed asset Associated Services</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06fd993</div>
-                                        <div class="message">Merge pull request #31901 from 7Vals/feature/checkout_basket_performance_1
-
-Changed max query for performance refs #1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df9fe5f</div>
-                                        <div class="message">added comment in model refs# 38365</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf36051</div>
-                                        <div class="message">added index on item assignment histories table refs# 38365</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e759d54</div>
-                                        <div class="message"> Pagination for Fixed Asset Associated Services refs# 40563</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#836caf6</div>
-                                        <div class="message">beta flags for zoe and catalog optimizer refs #40527</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#befea26</div>
-                                        <div class="message">Changed max query for performance refs #1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ac3f0f</div>
-                                        <div class="message">fixed, refs#40105</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#419346e</div>
-                                        <div class="message">fix loading indicator not hidden, refs#39350</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af0599a</div>
-                                        <div class="message">issue fixed, refs#39505</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#03b0c9b</div>
-                                        <div class="message">Merge branch 'feature/37230_single_canvas_system_for_items_on_react_p1' of github.com:7Vals/ezofficeinventory into hotfix/40205_reservation_ui_fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#23001ac</div>
-                                        <div class="message">color fixed, refs#40205</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6dd9cbb</div>
-                                        <div class="message">Merge pull request #31893 from 7Vals/hotfix/39746_chip_missing_fix
-
-hotfix/39746_chip_missing_fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eefb43e</div>
-                                        <div class="message">hotfix/40430_su_option_for_remove_payment_issue_for_multiserver refs #40430</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f9e41bb</div>
-                                        <div class="message">Merge branch 'feature/rails_upgrade_final_prod' of github.com:7Vals/ezofficeinventory into hotfix/40430_su_option_for_remove_payment_issue_for_multiserver</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#76eab43</div>
-                                        <div class="message">chip added, refs#39746</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#933d559</div>
-                                        <div class="message">colors updated, refs#40205</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a243aa</div>
-                                        <div class="message">issues resolved, refs#40205</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -515,7 +429,7 @@ hotfix/39746_chip_missing_fix</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #2A56FB">Your fortune: Better not tell you now</b>
+                            <b style="color: #E7890C">Your fortune: Good Luck</b>
                         </div>
                     </section>
                 </div>
