@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg,.footnote.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.footnote{width:100%;justify-content:flex-end;font-size:12px}.footnote.warning{color:#d79533}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.warning{color:#d79533}.field.warning svg,.footnote.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.footnote{width:100%;justify-content:flex-end;font-size:12px}.footnote.warning{color:#d79533}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -188,20 +188,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 58mb of code in 1954 edited files across 301 commits</small>
+                <small>estimation from 60.7mb of code in 2588 edited files across 548 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="305.9478955702334" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="305.9478955702334" y="0" width="77.07274489659146" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="383.0206404668249" y="0" width="35.71300527297009" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="418.733645739795" y="0" width="30.31050117807204" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="449.04414691786707" y="0" width="4.764888677199492" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="453.8090355950666" y="0" width="2.5698692536175005" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.37890484868404" y="0" width="1.9498624012332868" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="458.32876724991735" y="0" width="1.671232750082692" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="301.94567120067495" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="301.94567120067495" y="0" width="78.9776018772732" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="380.9232730779482" y="0" width="37.271915570516065" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="418.19518864846424" y="0" width="29.39366847827024" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="447.58885712673447" y="0" width="6.407442894492681" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="453.99630002122717" y="0" width="2.4921357924619225" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.4884358136891" y="0" width="1.8908829208524731" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="458.3793187345416" y="0" width="1.620681265458479" height="8" fill="#701516"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -331,6 +331,162 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">7Vals/ezofficeinventory</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/40259_custom_fields_form</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fb24a9c</div>
+                                        <div class="message">Add FilterBasesCriteria and RepeatCreationCheckbox components; update custom fields handling and localization strings. refs #40259</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">7Vals/ezofficeinventory</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/40259_custom_fields_form</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a73c24e</div>
+                                        <div class="message">Refactor DynamicField component by removing unused props and cleaning up code structure. refs #40259</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 180 commits in
+                                        <span class="repo">7Vals/ezofficeinventory</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/40259_custom_fields_form</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2d2719d</div>
+                                        <div class="message">ezr fields handling ref# 39829</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#56725e6</div>
+                                        <div class="message">comments resolved refs #39975</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e61c6e2</div>
+                                        <div class="message">Merge branch 'feature/rails_upgrade_final_prod' of github.com:7Vals/ezofficeinventory into feature/39975_handling_custom_forms_zendesk</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8900b1c</div>
+                                        <div class="message">demo new changes refs #39975</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d8b1ed5</div>
+                                        <div class="message">class changes refs #39975</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1eb16c5</div>
+                                        <div class="message">cf issues ref# 39829</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff5e394</div>
+                                        <div class="message">Merge branch 'feature/37230_single_canvas_system_for_items_on_react_p1' into feature/39829_new_asset_form</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#435f9ad</div>
+                                        <div class="message">app updated refs #39975</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d57adfb</div>
+                                        <div class="message">method renaming refs #39975</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99effa6</div>
+                                        <div class="message">version changes refs #39975</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6eb07c6</div>
+                                        <div class="message">zendesk build refs #39975</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8fac8d9</div>
+                                        <div class="message">custom form zendesk changes and mandatory checks removed refs #39975</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#447a6d9</div>
+                                        <div class="message">remove itemtype ref# 39829</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bd9ab89</div>
+                                        <div class="message">Merge branch 'feature/37230_single_canvas_system_for_items_on_react_p1' into feature/39829_new_asset_form</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d077593</div>
+                                        <div class="message">remove debugger and console ref# 39829</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#49364b8</div>
+                                        <div class="message">create asset ref# 39829</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2d8ec91</div>
+                                        <div class="message">data generation actions added ref# 39829</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#52fdb8e</div>
+                                        <div class="message">Merge branch 'feature/37230_single_canvas_system_for_items_on_react_p1' into feature/39829_new_asset_form</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59c71e8</div>
+                                        <div class="message">remove itemType usage ref# 39829</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f0ddd5</div>
+                                        <div class="message">initial commit ref# 39829</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">7Vals/ezofficeinventory</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/40259_custom_fields_form</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f3ef642</div>
+                                        <div class="message">Add preview field functionality and enhance custom fields handling; update localization strings. refs #40259</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">shahbazhassan42000/shahbazhassan42000</span>
                                     </div>
                                 </div>
@@ -339,164 +495,6 @@
                                     <div class="commit">
                                         <div class="sha">#c556b52</div>
                                         <div class="message">Deploy to GitHub pages</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">7Vals/ezofficeinventory</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/40259_custom_fields_form</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#528cd75</div>
-                                        <div class="message">Refactor custom field types and update localization strings; enhance resource type enums. refs #40259</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">shahbazhassan42000/shahbazhassan42000</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">output</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#73420b3</div>
-                                        <div class="message">Deploy to GitHub pages</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">7Vals/ezofficeinventory</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/40259_custom_fields_form</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8916e49</div>
-                                        <div class="message">Add repeat cycle functionality and enhance custom fields handling; update localization strings. refs #40259</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 115 commits in
-                                        <span class="repo">7Vals/ezofficeinventory</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/40259_custom_fields_form</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fcb11d5</div>
-                                        <div class="message">Merge pull request #31956 from 7Vals/feature/39468_delete_assets_via_rake_task
-
-Feature/39468 delete assets via rake task</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f24596b</div>
-                                        <div class="message">code refactored refs #40717</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#55eed1d</div>
-                                        <div class="message">logging error refs #40717</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9db528e</div>
-                                        <div class="message">reverse merge upgrade</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b06d0c</div>
-                                        <div class="message">asset object added to csv</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ca77c4</div>
-                                        <div class="message">Merge branch 'feature/37230_single_canvas_system_for_items_on_react_p1' of github.com:7Vals/ezofficeinventory into hotfix/40698_error_while_locking_from_intune</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce8369a</div>
-                                        <div class="message">updating asset state after checking out refs #40717</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4e10b13</div>
-                                        <div class="message">user interactive and reverting time configuration refs #40717</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5960db1</div>
-                                        <div class="message">generate missing histories refs #40717</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b4d26d</div>
-                                        <div class="message">fix filter crash</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5e989b</div>
-                                        <div class="message">Merge branch 'feature/rails_upgrade_final_prod' of github.com:7Vals/ezofficeinventory into feature/rails_upgrade_final_prod</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2573767</div>
-                                        <div class="message">code refactored refs #40687</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec62f92</div>
-                                        <div class="message">code refactored refs #40687</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f54bdcc</div>
-                                        <div class="message">feature/40687_delete_oa_scans_from_the_back_end refs #40687</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#18690a5</div>
-                                        <div class="message">feature/40687_delete_oa_scans_from_the_back_end refs #40687</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2171827</div>
-                                        <div class="message">migration for rake task</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5603bd7</div>
-                                        <div class="message">rake task to delete assets</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0be74c5</div>
-                                        <div class="message">permitted params in case of contracts, refs#40640</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4e14aa8</div>
-                                        <div class="message">label name change refs# 40356</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4255865</div>
-                                        <div class="message">Inventory should not have duration column in cart detail page refs# 40356</div>
                                     </div>
                                 </div>
                             </section>
