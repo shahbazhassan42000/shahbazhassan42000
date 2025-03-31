@@ -30,10 +30,10 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -188,20 +188,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 58.3mb of code in 2362 edited files across 496 commits</small>
+                <small>estimation from 58.3mb of code in 2368 edited files across 498 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="301.66908005028614" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="301.66908005028614" y="0" width="78.89562855188413" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="380.56470860217024" y="0" width="37.304453961049354" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="417.86916256321956" y="0" width="29.62290292175008" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="447.49206548496966" y="0" width="6.457413064331596" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="453.94947854930126" y="0" width="2.5115713849223713" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.46104993422364" y="0" width="1.9056294807916516" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="458.3666794150153" y="0" width="1.6333205849847308" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="301.6086167231432" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="301.6086167231432" y="0" width="78.95561724585431" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="380.56423396899754" y="0" width="37.33308548154932" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="417.89731945054683" y="0" width="29.60310533901448" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="447.50042478956135" y="0" width="6.45309744510492" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="453.95352223466625" y="0" width="2.509892851173646" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.46341508583987" y="0" width="1.9043559102233307" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="458.3677709960632" y="0" width="1.632229003936769" height="8" fill="#701516"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -436,7 +436,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
                         </div>
                     </section>
                 </div>
