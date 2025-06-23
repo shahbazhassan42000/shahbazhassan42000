@@ -39,10 +39,10 @@
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            936 Commits
+                            945 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            0 Pull requests opened
+                            1 Pull request opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -188,20 +188,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 57.8mb of code in 2135 edited files across 408 commits</small>
+                <small>estimation from 60.9mb of code in 2632 edited files across 566 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.21704399923135" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="304.21704399923135" y="0" width="78.03782202398652" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="382.25486602321786" y="0" width="36.42501935488882" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="418.6798853781067" y="0" width="30.096797391058658" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="448.77668276916535" y="0" width="6.560715983201875" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="455.33739875236716" y="0" width="2.551750424489574" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="457.88914917685673" y="0" width="1.9361149222044673" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="459.8252640990612" y="0" width="0.174735900938743" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="302.94303224650497" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="302.94303224650497" y="0" width="79.39225054785521" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="382.33528279436024" y="0" width="37.33565262534054" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="419.67093541970075" y="0" width="29.374935107296928" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="449.0458705269977" y="0" width="6.403359259786739" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="455.44922978678443" y="0" width="2.490547487676129" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.9397772744606" y="0" width="1.8896778106005963" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="459.82945508506117" y="0" width="0.17054491493887453" height="8" fill="#701516"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -331,14 +331,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">shahbazhassan42000/shahbazhassan42000</span>
+                                        <span class="repo">shahbazhassan42000/energent.ai</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">output</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#457d6b3</div>
-                                        <div class="message">Deploy to GitHub pages</div>
+                                        <div class="sha">#a88627f</div>
+                                        <div class="message">feat: remove console log and API key display from RootLayout for cleaner output</div>
                                     </div>
                                 </div>
                             </section>
@@ -357,8 +357,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e0b65bc</div>
-                                        <div class="message">feat: enhance CursorDot component to check for mobile devices and prevent rendering</div>
+                                        <div class="sha">#18340e6</div>
+                                        <div class="message">feat: display API key in RootLayout for debugging purposes</div>
                                     </div>
                                 </div>
                             </section>
@@ -377,8 +377,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5bb367f</div>
-                                        <div class="message">feat: update NavBar to use Link component and enhance layout styling</div>
+                                        <div class="sha">#4a7363e</div>
+                                        <div class="message">feat: add console log for API options in layout for debugging purposes</div>
                                     </div>
                                 </div>
                             </section>
@@ -397,17 +397,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3d0bb9b</div>
-                                        <div class="message">feat: add NavBar component and navigation items
-
-- Created NavBar component for application navigation.
-- Added NAV_ITEMS constant for navigation links.
-- Implemented hover effects using framer-motion for active navigation item.
-- Established layout structure in layout.tsx with metadata for the application.
-- Integrated Google Generative AI and OpenAI libraries for AI functionalities.
-- Updated global styles with Tailwind CSS and custom CSS variables.
-- Removed unused SVG assets and legacy styles from previous implementation.
-- Updated package dependencies for analytics and animation libraries.</div>
+                                        <div class="sha">#c87e978</div>
+                                        <div class="message">feat: update API key handling to include fallback for NEXT_PUBLIC_GEMINI_API_KEY in layout and next config</div>
                                     </div>
                                 </div>
                             </section>
@@ -420,14 +411,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">shahbazhassan42000/mazdoor</span>
+                                        <span class="repo">shahbazhassan42000/energent.ai</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feature/android_mobile_app</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#aeb491f</div>
-                                        <div class="message">feat: Add TeamCarousel component, enhance localization, and update enums for payment methods and roles</div>
+                                        <div class="sha">#9146071</div>
+                                        <div class="message">feat: remove unused focus effect on connect button in ControlTray component</div>
                                     </div>
                                 </div>
                             </section>
@@ -445,7 +436,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
                         </div>
                     </section>
                 </div>
