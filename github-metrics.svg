@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 20 users
+                            Followed by 21 users
                         </div>
                     </section>
                     <section>
@@ -188,20 +188,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 57.8mb of code in 2126 edited files across 406 commits</small>
+                <small>estimation from 58mb of code in 2371 edited files across 523 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.44263419401" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="304.44263419401" y="0" width="77.75293906817215" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="382.19557326218217" y="0" width="36.43375899222725" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="418.6293322544094" y="0" width="30.13361933928713" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="448.7629515936965" y="0" width="6.568742695849611" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="455.33169428954614" y="0" width="2.5548723653659295" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="457.8865666549121" y="0" width="1.9384836633865763" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="459.8250503182987" y="0" width="0.17494968170134112" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="302.4261977872986" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="302.4261977872986" y="0" width="79.62489171409531" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="382.0510895013939" y="0" width="37.244856499223495" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="419.2959460006174" y="0" width="29.648070375028297" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="448.94401637564573" y="0" width="6.462899246493554" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="455.40691562213925" y="0" width="2.5137052019777735" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.920620824117" y="0" width="1.9072484929813116" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="459.8278693170983" y="0" width="0.17213068290166" height="8" fill="#701516"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -436,7 +436,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #00CBB0">Your fortune: ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!</b>
+                            <b style="color: #6023F8">Your fortune: Outlook good</b>
                         </div>
                     </section>
                 </div>
