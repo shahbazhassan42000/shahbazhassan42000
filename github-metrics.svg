@@ -188,18 +188,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 16.6mb of code in 549 edited files across 136 commits</small>
+                <small>estimation from 61.4mb of code in 2802 edited files across 586 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="414.980253367891" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="414.980253367891" y="0" width="14.765849043587949" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="429.74610241147894" y="0" width="10.890649483113734" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="440.6367518945927" y="0" width="6.942634986646694" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="447.5793868812393" y="0" width="6.594001606338631" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="454.17338848757794" y="0" width="5.826611512422024" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="297.4946595906619" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="297.4946595906619" y="0" width="78.00083153288256" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="375.49549112354447" y="0" width="36.52923953112741" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="412.0247306546719" y="0" width="31.28064415358349" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="443.30537480825535" y="0" width="6.292022430622079" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="449.5973972388775" y="0" width="5.4111392903349875" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="455.00853652921245" y="0" width="2.5442197630357" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="457.55275629224815" y="0" width="2.4472437077518547" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -210,9 +212,9 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        TSX
+                        CSS
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -222,21 +224,33 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        TypeScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         SCSS
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        CSS
+                        Java
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        TSX
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        TypeScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Python
                     </div>
                 </div>
                 <div class="row footnote warning">
@@ -328,7 +342,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
