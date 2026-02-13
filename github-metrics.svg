@@ -188,18 +188,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 16.6mb of code in 549 edited files across 136 commits</small>
+                <small>estimation from 16.5mb of code in 404 edited files across 124 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="414.980253367891" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="414.980253367891" y="0" width="14.765849043587949" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="429.74610241147894" y="0" width="10.890649483113734" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="440.6367518945927" y="0" width="6.942634986646694" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="447.5793868812393" y="0" width="6.594001606338631" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="454.17338848757794" y="0" width="5.826611512422024" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="417.96585738206863" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="417.96585738206863" y="0" width="15.243184368038563" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="433.20904175010725" y="0" width="7.167069417346246" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="440.3761111674535" y="0" width="6.876192395817073" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="447.2523035632706" y="0" width="6.807165772306883" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="454.0594693355775" y="0" width="5.940530664422581" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -216,15 +216,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        HTML
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        HTML
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -328,7 +328,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
