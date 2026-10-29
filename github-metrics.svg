@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            863 Commits
+                            870 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -188,20 +188,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 54.1mb of code in 2979 edited files across 616 commits</small>
+                <small>estimation from 54.1mb of code in 3005 edited files across 623 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="262.6192849673055" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="262.6192849673055" y="0" width="91.36360875335366" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="353.98289372065915" y="0" width="42.6953789064277" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="396.67827262708687" y="0" width="36.44159991333001" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="433.11987254041685" y="0" width="10.423428665942138" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="443.543301206359" y="0" width="7.330135624338175" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="450.87343683069713" y="0" width="6.275551673169984" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="457.1489885038671" y="0" width="2.851011496132851" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="261.2121617914028" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="261.2121617914028" y="0" width="91.20980787604385" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="352.4219696674467" y="0" width="42.46661559542158" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="394.8885852628683" y="0" width="36.246344565607146" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="431.13492982847544" y="0" width="11.307450900594938" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="442.44238072907035" y="0" width="7.431023087463387" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="449.87340381653377" y="0" width="7.290860505145006" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="457.16426432167873" y="0" width="2.8357356783212504" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -236,15 +236,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Java
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Java
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -342,7 +342,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #6023F8">Your fortune: Outlook good</b>
+                            <b style="color: #00CBB0">Your fortune: ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!</b>
                         </div>
                     </section>
                 </div>
